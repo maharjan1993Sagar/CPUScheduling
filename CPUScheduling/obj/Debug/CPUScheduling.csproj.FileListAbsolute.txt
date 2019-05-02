@@ -1,0 +1,7 @@
+F:\CPUScheduling\CPUScheduling\obj\Debug\CPUScheduling.csprojAssemblyReference.cache
+F:\CPUScheduling\CPUScheduling\obj\Debug\CPUScheduling.csproj.CoreCompileInputs.cache
+F:\CPUScheduling\CPUScheduling\bin\Debug\CPUScheduling.exe.config
+F:\CPUScheduling\CPUScheduling\bin\Debug\CPUScheduling.exe
+F:\CPUScheduling\CPUScheduling\bin\Debug\CPUScheduling.pdb
+F:\CPUScheduling\CPUScheduling\obj\Debug\CPUScheduling.exe
+F:\CPUScheduling\CPUScheduling\obj\Debug\CPUScheduling.pdb
